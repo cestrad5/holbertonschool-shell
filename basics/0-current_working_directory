@@ -1,3 +1,2 @@
 #!/bin/bash
-#show the actual pwd
 pwd
