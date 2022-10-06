@@ -1,2 +1,2 @@
 #!/bin/bash
-find ./ -type f -empty | lists -l
+find  /path/to/dest -type fd -empty
