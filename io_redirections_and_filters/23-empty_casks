@@ -1,2 +1,2 @@
 #!/bin/bash
-find  /path/to/dest -type fd -empty
+find -type f -type d -empty
